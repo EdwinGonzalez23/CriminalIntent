@@ -1,0 +1,15 @@
+<paths>
+    <files-path name="crime_photos" path="."/>
+</paths>
+
+<!--This XMLfile is a description that says,
+“Map the root path of my private storage
+as crime_photos.”
+Hook up in Manifest with a meta-data tag.-->
+
+
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+</PreferenceScreen>-->
